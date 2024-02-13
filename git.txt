@@ -21,7 +21,7 @@ GIT - SVN
 
 > git add : 파일의 상태를 tracked 상태로 변경
 
-> 깃에 사용자 정보를 등록 
+> 깃에 사용자 정보를 등록 git 
 
 git config --global user.email "fsfsfs1@naver.com"
 git config --global user.name "choidonghe"
@@ -31,7 +31,7 @@ git config --global user.name "choidonghe"
  git commit -m "저장하는 메세지(작업내용)"
 
 > 깃의 commit 기록 확인
-
+ 
  git log
  git log --oneline --all -graph
 
