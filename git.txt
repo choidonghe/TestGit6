@@ -39,7 +39,7 @@ git config --global user.name "choidonghe"
  git checkout 커밋아이디
  git checkout master
 
-
+Q) 테스트 작업 중(커밋 메세지 생성)
 
 
 
